@@ -57,6 +57,7 @@ objective-tilt approach achieves an order of magnitude more
 avoided-emissions exposure for a comparable Sharpe ratio cost, because it
 rewards the thing you actually want (avoided emissions) rather than
 constraining a proxy metric that wasn't designed to capture it.
+![Results](itr_optimization_results.png)
 
 ## Usage
 
